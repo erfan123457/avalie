@@ -1,6 +1,6 @@
 {
-  "زنده": "https://s4.uupload.ir/files/picsart_07-25-07.29.13_ijt3.png",
-  "اسپینر": "https://s4.uupload.ir/files/polish_۲۰۲۱۰۷۲۵_۱۴۲۳۳۷۶۳۶_3p4o.png",
+  "زنده": "https://s4.uupload.ir/files/picsart_07-25-08.06.32_8tl.png",
+  "اسپینر": "",
   "گوشی": "",
   "نقاشی": "",
   "نمایش برنامه": "",
